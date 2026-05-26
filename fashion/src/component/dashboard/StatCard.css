@@ -1,0 +1,28 @@
+.dashboard-stat-card {
+  background: #ffffff;
+  border: 1px solid #ececec;
+  border-radius: 20px;
+  padding: 24px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.04);
+  min-height: 150px;
+}
+
+.dashboard-stat-card h3 {
+  font-size: 15px;
+  color: #666666;
+  margin-bottom: 16px;
+  font-weight: 600;
+}
+
+.dashboard-stat-card h2 {
+  font-size: 34px;
+  color: #111111;
+  margin-bottom: 10px;
+  font-weight: 800;
+}
+
+.dashboard-stat-card p {
+  font-size: 14px;
+  color: #138a52;
+  line-height: 1.5;
+}
